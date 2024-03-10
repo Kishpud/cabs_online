@@ -11,7 +11,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/kishpud/cabs-online.git
+git clone https://github.com/Kishpud/cabs-online.git
 Import the database.sql file into your MySQL database to create the necessary tables.
 
 Update the database connection parameters in the PHP files (config.php, admin.php, login.php, etc.) with your MySQL credentials.
